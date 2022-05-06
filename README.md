@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuckScarpelli
-- 👀 I’m interested in development softwares
+- 👀 I’m interested in softwares development 
 - 🌱 I’m currently learning python, JavaScript, React, NodeJS...
-- 💞️ In this moment I’m not looking to collaborate on projects, I'm learning and looking knowledges.
+- 💞️ In this moment I’m not looking to collaborate on projects, I'm learning and looking knowledges
 - 📫 How to reach me... linkedin.com/in/luciano-scarpelli-46786a164
 
 <!---
